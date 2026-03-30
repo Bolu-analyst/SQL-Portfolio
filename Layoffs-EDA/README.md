@@ -25,3 +25,6 @@ This analysis provides visibility into workforce reduction trends, helping organ
 
 ## Key Outcome
 Provided a data-driven overview of layoffs trends, highlighting patterns useful for strategic workforce and economic analysis.
+
+## Tools Used
+- MySQL
