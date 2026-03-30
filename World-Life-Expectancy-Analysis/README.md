@@ -32,4 +32,4 @@ Analyze global life expectancy trends and identify key factors influencing longe
 This analysis highlights the relationship between economic development and health outcomes, providing insights useful for policymakers, global organizations, and strategic planning.
 
 ## Key Outcome
-Transformed incomplete global health data into a clean, analysis-ready dataset and uncovered clear relationships between economic development and life expectancy trends across countries.
+Developed a clean, reliable dataset from incomplete global health data and generated insights highlighting the strong relationship between economic development and life expectancy across countries.
