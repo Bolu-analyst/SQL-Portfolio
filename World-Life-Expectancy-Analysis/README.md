@@ -29,7 +29,7 @@ Analyze global life expectancy trends and identify key factors influencing longe
 - Improvements in economic conditions are strongly associated with increases in life expectancy  
 
 ## Business / Analytical Value
-This analysis highlights the relationship between economic development and health outcomes, providing insights useful for policymakers, global organizations, and strategic planning.
+This analysis provides insights into how economic development impacts health outcomes, supporting strategic decision-making for policymakers, global organizations, and investment analysis.
 
 ## Key Outcome
 Developed a clean, reliable dataset from incomplete global health data and generated insights highlighting the strong relationship between economic development and life expectancy across countries.
