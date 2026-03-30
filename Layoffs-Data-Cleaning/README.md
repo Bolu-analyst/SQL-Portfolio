@@ -21,3 +21,6 @@ Clean and structured data enables accurate analysis of layoffs trends, supportin
 
 ## Key Outcome
 Transformed raw, inconsistent data into a reliable dataset suitable for downstream analysis and reporting.
+
+## Tools Used
+- MySQL
