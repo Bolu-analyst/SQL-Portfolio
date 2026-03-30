@@ -33,3 +33,6 @@ This analysis provides insights into how economic development impacts health out
 
 ## Key Outcome
 Developed a clean, reliable dataset from incomplete global health data and generated insights highlighting the strong relationship between economic development and life expectancy across countries.
+
+## Tools Used
+- MySQL
