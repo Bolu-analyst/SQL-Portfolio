@@ -28,7 +28,10 @@ Analyze income distribution across U.S. states and identify regional differences
 - Urban areas tend to have higher income levels compared to rural regions  
 
 ## Business / Analytical Value
-This analysis provides insights into regional income disparities, supporting economic planning, policy development, and targeted financial strategies.
+This analysis highlights regional income disparities, providing insights useful for economic policy, market analysis, and targeted financial decision-making.
 
 ## Key Outcome
 Transformed raw income data into a structured dataset and identified key regional income patterns useful for economic and policy analysis.
+
+## Tools Used
+- MySQL
