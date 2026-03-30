@@ -21,8 +21,7 @@ Analyze layoffs trends across companies, industries, and time.
 - Patterns suggest industry-wide contractions during certain periods
 
 ## Business Value
-This analysis helps understand workforce trends and economic shifts, enabling better strategic planning.
-
+This analysis provides visibility into workforce reduction trends, helping organizations and stakeholders understand economic cycles, industry contractions, and potential future risks.
 
 ## Key Outcome
 Provided a data-driven overview of layoffs trends, highlighting patterns useful for strategic workforce and economic analysis.
